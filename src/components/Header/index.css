@@ -1,0 +1,27 @@
+.wave-img {
+  height: 30px;
+  width: 30px;
+  margin-right: 6px;
+}
+.head-para {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #12022f;
+}
+.image-cont {
+  display: flex;
+  align-items: center;
+}
+.text-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+}
+.nav-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}

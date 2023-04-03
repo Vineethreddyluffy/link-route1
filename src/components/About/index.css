@@ -1,0 +1,23 @@
+.home-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  background-size: cover;
+}
+.home-head {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #6d396b;
+}
+.home-image {
+  height: 200px;
+  width: 200px;
+}
+.para {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #555555;
+}
